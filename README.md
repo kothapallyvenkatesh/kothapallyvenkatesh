@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**kothapallyvenkatesh/kothapallyvenkatesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Venkatesh | Python Developer
 
-Here are some ideas to get you started:
+🚀 Python | SQL | Django | NumPy | Pandas  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Built **ATM Simulation System** (auth, transactions, file handling)  
+- Developed **EV Charger Simulation** (MATLAB, V2G/V2H)  
+- Strong in problem-solving, data handling & backend basics  
+
+🎓 B.Tech – Electrical & Electronics Engineering  
+
+📫 Email: kothapallyvenkatesh02@email.com  
+🔗 LinkedIn: linkedin.com/in/venkatesh-kothapally
